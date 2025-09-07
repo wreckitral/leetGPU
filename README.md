@@ -3,4 +3,5 @@
 1. [Vector Addition](https://leetgpu.com/challenges/vector-addition) - adds 2 vectors `vecAdd.cu`
 2. [Matrix Multiplication](https://leetgpu.com/challenges/matrix-multiplication) - naive matrix multiplication `matMul.cu`
 3. [Matrix Transpose](https://leetgpu.com/challenges/matrix-transpose) - transpose the matrix A[i][j] -> B[j][i]       `matTrans.cu`
-3. [Color Inversion](https://leetgpu.com/challenges/color-inversion) - invert color of an image
+4. [Color Inversion](https://leetgpu.com/challenges/color-inversion) - invert color of an image
+5. [1D Convolution](https://leetgpu.com/challenges/1d-convolution) - implement 1D convolution operation
