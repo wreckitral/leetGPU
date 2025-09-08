@@ -10,3 +10,6 @@
 the rectified Linier Unit (ReLU) activation function
 (im trying to avoid divergence, so i use CUDA's math function fmaxf(), which return the largest of two floats,
 this translate to only one instruction, no branching)
+8. [Leaky ReLU](https://leetgpu.com/challenges/leaky-relu) - same with the relu but has additional constant, 0.01
+9. [Rainbow Table](https://leetgpu.com/challenges/rainbow-table) - hash an array of integer, per element R rounds of hashing
+
