@@ -12,4 +12,5 @@ the rectified Linier Unit (ReLU) activation function
 this translate to only one instruction, no branching)
 8. [Leaky ReLU](https://leetgpu.com/challenges/leaky-relu) - same with the relu but has additional constant, 0.01
 9. [Rainbow Table](https://leetgpu.com/challenges/rainbow-table) - hash an array of integer, per element R rounds of hashing
-
+9. [Matrix Copy](https://leetgpu.com/challenges/matrix-copy) - copy matrix A to B, i just use 1D mapping, but i dont know whether this is optimal or not,
+i'll benchmark this later
